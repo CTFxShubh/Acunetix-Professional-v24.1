@@ -16,7 +16,7 @@ Automated Web Application Security Testing Tool
 
 1) Download Acunetix Professional
 ```
-git clone https://github.com/xiv3r/Acunetix-Professional-v24.1.git
+git clone https://github.com/CTFxShubh/Acunetix-Professional-v24.1.git
 
 cd Acunetix-Professional-v24.1
 
